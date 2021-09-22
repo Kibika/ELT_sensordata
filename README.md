@@ -6,4 +6,5 @@ a script for the required transformation.
 
 # Credits
 https://docs.getdbt.com/
+
 https://community.snowflake.com/s/article/Using-DBT-to-Execute-ELT-Pipelines-in-Snowflake
