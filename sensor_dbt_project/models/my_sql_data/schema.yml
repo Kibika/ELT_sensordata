@@ -7,7 +7,24 @@ sources:
         description: 'Larger PEMS data'
       - name: station_summary
         description: 'Summary statistics for each station'
+        columns:
+          - name: ID
+            description: 'unique station id'
+            tests:
+              - unique
+              - not_null
       - name: maindata
         description: 'Sensor data for I80 corridor'
+        columns:
+          - name: source_id
+            description: 'unique station id'
+            tests:
+              - not_null
       - name: metadata
         description: 'metadata for each station'
+        columns:
+          - name: ID
+            description: 'unique station id'
+            tests:
+              - unique
+              - not_null
