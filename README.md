@@ -8,3 +8,7 @@ loaded into MySQL using jdbc. The extraction and loading has been done using jup
 https://docs.getdbt.com/
 
 https://community.snowflake.com/s/article/Using-DBT-to-Execute-ELT-Pipelines-in-Snowflake
+
+https://www.astronomer.io/blog/airflow-dbt-1
+
+https://github.com/tuanavu/airflow-tutorial
