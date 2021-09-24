@@ -2,7 +2,6 @@ version: 2
 
 sources:
   - name: sensor_db
-    database: sensor_db
     tables:
       - name: sensordata
         description: 'Larger PEMS data'
