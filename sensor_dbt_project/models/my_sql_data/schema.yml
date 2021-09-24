@@ -5,3 +5,10 @@ sources:
     database: sensor_db
     tables:
       - name: sensordata
+        description: 'Larger PEMS data'
+      - name: station_summary
+        description: 'Summary statistics for each station'
+      - name: maindata
+        description: 'Sensor data for I80 corridor'
+      - name: metadata
+        description: 'metadata for each station'
