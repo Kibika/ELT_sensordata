@@ -12,3 +12,5 @@ https://community.snowflake.com/s/article/Using-DBT-to-Execute-ELT-Pipelines-in-
 https://www.astronomer.io/blog/airflow-dbt-1
 
 https://github.com/tuanavu/airflow-tutorial
+
+https://github.com/getredash/redash
