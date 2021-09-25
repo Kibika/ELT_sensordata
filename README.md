@@ -15,3 +15,5 @@ https://www.astronomer.io/blog/airflow-dbt-1
 https://github.com/puckel/docker-airflow
 
 https://github.com/getredash/redash
+
+https://www.youtube.com/watch?v=d9g9xbNc5qA&ab_channel=AIEngineering
